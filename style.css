@@ -1,0 +1,27 @@
+@media screen and (min-width: 992px){
+ 
+
+body{
+ background-color: lemonchiffon;
+}
+
+h1 {
+text-align: center;
+text-transform: uppercase;
+ color: darkred;
+}
+
+h2 {
+text-align: center;
+border: 1px solid lightgray;
+font-style: italic;
+ color: crimson;
+}
+
+p {
+font-size: 100%;
+font-family: "Times New Roman", Times, serif;
+ color: black;
+}
+
+}
